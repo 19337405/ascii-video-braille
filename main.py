@@ -21,7 +21,7 @@ import cv2
 import moviepy.editor as mp
 from PIL import Image
 
-ascii_characters = "^+={"
+ascii_characters = "⠀⠄⠆⠖⠶⡶⣩⣪⣫⣾⣿"
 palette = []
 
 os.system("")
